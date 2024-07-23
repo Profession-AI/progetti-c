@@ -17,7 +17,7 @@ InsuraPro Solutions offrirà un’applicazione console interattiva sviluppata in
     - **Modifica di un Cliente**: Modificare i dettagli di un cliente esistente.
     - **Eliminazione di un Cliente**: Rimuovere clienti dal CRM.
     - **Ricerca di un Cliente**: Cercare clienti per nome o cognome.
-    - **Gestione delle Interazioni**: Aggiungere, visualizzare e cercare interazioni per ogni cliente.
+    - **Gestione delle Interazioni**: Aggiungere, visualizzare e cercare interazioni per ogni cliente (per interazioni si intendono gli appuntamenti da parte della forza vendita e i contratti stipulati).
     - **Salvataggio e Caricamento Dati**: Salvare i dati dei clienti e delle interazioni in un file (testo o CSV) e caricarli all’avvio.
 
 **Interfaccia Utente**: L’interfaccia sarà basata su riga di comando, con un menu principale che offre opzioni chiare per tutte le operazioni necessarie, assicurando un'esperienza utente fluida e accessibile.
