@@ -21,3 +21,5 @@ InsuraPro Solutions offrirà un’applicazione console interattiva sviluppata in
     - **Salvataggio e Caricamento Dati**: Salvare i dati dei clienti e delle interazioni in un file (testo o CSV) e caricarli all’avvio.
 
 **Interfaccia Utente**: L’interfaccia sarà basata su riga di comando, con un menu principale che offre opzioni chiare per tutte le operazioni necessarie, assicurando un'esperienza utente fluida e accessibile.
+
+# Modalità di consegna: file contenente il codice creato
